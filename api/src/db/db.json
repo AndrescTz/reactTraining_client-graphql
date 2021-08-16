@@ -3,5 +3,206 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "1",
+      "type": "DOG",
+      "name": "Moose",
+      "createdAt": "3453453453"
+    },
+    {
+      "id": "2",
+      "type": "DOG",
+      "name": "Spike",
+      "createdAt": "3453452234"
+    },
+    {
+      "id": "3",
+      "type": "CAT",
+      "name": "Michifu",
+      "createdAt": "4353455345"
+    },
+    {
+      "id": "KthdmUh3xMGuChXkjs5Z6",
+      "createdAt": 1628729208359,
+      "name": "Ponky",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "v_XObqqW1g0qNw_av86tO",
+      "createdAt": 1628730495963,
+      "name": "Ponky",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "fF9IMuWorxiENvq_fGQuG",
+      "createdAt": 1628730510326,
+      "name": "Cooper",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "HrFcYA8uU4X4bzoDTNfn2",
+      "createdAt": 1628779693062,
+      "name": "Folky",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "SwH0ZHBYsD1fN_QgjPGTz",
+      "createdAt": 1628876440587,
+      "name": "Capico",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "6cjQY-hRguWrnzo64SXVB",
+      "createdAt": 1628884321449,
+      "name": "Dog1",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "1iPtPZdZVSWUSmlbuR58q",
+      "createdAt": 1628913433861,
+      "name": "Slashin",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "-wHVMI9YTxLdshS30MR2e",
+      "createdAt": 1628913521926,
+      "name": "Spark",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "XYXPnJ1UGreYpaxa_hYTj",
+      "createdAt": 1628913611707,
+      "name": "Ponks",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "_8RxtaRZljhJaa6mZBkhx",
+      "createdAt": 1628913724492,
+      "name": "Ponkishito",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "vd2p9iw9swcd-WaW0uSk8",
+      "createdAt": 1628918037892,
+      "name": "Shifun",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "Waxjaf8UGqEfCU-I2N625",
+      "createdAt": 1628918122889,
+      "name": "Difun",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "dG1ZHFIsF3twukp-dAwmM",
+      "createdAt": 1629009201432,
+      "name": "Doggy",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "RxzALGQABAZ9nLdeLmGNH",
+      "createdAt": 1629009335132,
+      "name": "Kitty",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "AtWw0i8P60GceubrC1Ri5",
+      "createdAt": 1629009423882,
+      "name": "Ditto",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "huLEPR_PE9dIIjIYzjkwi",
+      "createdAt": 1629009479108,
+      "name": "Sponks",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "osaIMYe58ysRReAMHUMK-",
+      "createdAt": 1629009500723,
+      "name": "Goddos",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "yIGv2YPYHR1Qgzx4tsuWC",
+      "createdAt": 1629009838800,
+      "name": "Tanky",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "pNplAseas4m-RaZANY4eo",
+      "createdAt": 1629050293951,
+      "name": "KittyCat",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "_1gqwpQ380Av_h_AhjyJM",
+      "createdAt": 1629050343640,
+      "name": "Moofer",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "VLHbi3z5pXGDrtJCEMCjv",
+      "createdAt": 1629105203259,
+      "name": "Museog",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "DVS27Obe2-auuCG_Ze6GF",
+      "createdAt": 1629106583073,
+      "name": "Doosef",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "wECBer1SF4zwpmgv3dtmh",
+      "createdAt": 1629106632471,
+      "name": "Goose",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "22KlH3pzURn3lrac7Zvid",
+      "createdAt": 1629107662784,
+      "name": "Slash",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "WPJ-Upv-pHGXr8HZGEnz-",
+      "createdAt": 1629139615757,
+      "name": "Ponky",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "caE3QnXIicAABopaayCYv",
+      "createdAt": 1629139632185,
+      "name": "Chifu",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
